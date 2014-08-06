@@ -32,6 +32,17 @@
 		<project.resources.sourceEncoding>UTF-8</project.resources.sourceEncoding>
 	</properties>
 
+	<repositories>
+		<repository>
+			<id>hellblazer-snapshots</id>
+			<url>https://repository-hal900000.forge.cloudbees.com/snapshot/</url>
+		</repository>
+		<repository>
+			<id>hellblazer-release</id>
+			<url>https://repository-hal900000.forge.cloudbees.com/release/</url>
+		</repository>
+	</repositories>
+
 	<build>
 		<plugins>
 			<plugin>

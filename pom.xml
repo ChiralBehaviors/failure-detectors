@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.chiralbehaviors</groupId>
 	<artifactId>failure-detectors</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>Acrual Failure Detectors</name>
 	<description>Adaptive failure detectors</description>
 
@@ -105,7 +105,7 @@
 		<dependency>
 			<groupId>com.hellblazer</groupId>
 			<artifactId>utils</artifactId>
-			<version>0.0.3</version>
+			<version>0.0.4</version>
 		</dependency>
 	</dependencies>
 </project>
